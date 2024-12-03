@@ -1,0 +1,1 @@
+Olá, meu nome é Giovanni Souza, tenho 17 anos e em breve vou começar meus estudos em um curso de Engenharia de Software, atualmente estou aprendendo python, e logo depois vou tentar aprender C# e Java, para não ficar atrasado na faculdade.
